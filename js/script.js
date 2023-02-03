@@ -15,4 +15,4 @@ card.forEach(cd=>{
         let teste = cd.querySelector('.comprar')
         teste.style.visibility ="hidden"
     })
-    })  
+})  
